@@ -1,9 +1,8 @@
-# <img src="https://github.com/leoibiap.png" width="48"> Seu Nome
+# <img src="https://github.com/leoibiap.png" width="48"> Leonardo Ibiapina
 
 [![GitHub followers](https://img.shields.io/github/followers/seuusername?label=Follow&style=social)](https://github.com/seuusername)
 [![Linkedin: LeonardoIbiapina](https://img.shields.io/badge/-seuperfil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LeonardoIbiapina/)](https://www.linkedin.com/in/LeonardoIbiapina/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/leoibiap?style=social)](https://twitter.com/leoibiap)
-[![Instagram Follow](https://img.shields.io/instagram/follow/leoibiap?style=social)](https://instagram.com/leoibiap)
+
 ## 👨‍💻 Sobre mim
 
 Sou um desenvolvedor apaixonado por criar soluções inovadoras usando tecnologias modernas. Minha jornada no mundo da programação começou há alguns anos e desde então tenho trabalhado em diversos projetos desafiadores. Atualmente, estou focado em desenvolvimento back-end full stack e aprendizado de máquina.
