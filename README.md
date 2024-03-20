@@ -1,7 +1,7 @@
 # <img src="https://github.com/leoibiap.png" width="48"> Leonardo Ibiapina
 
-[![GitHub followers](https://img.shields.io/github/followers/seuusername?label=Follow&style=social)](https://github.com/seuusername)
-[![Linkedin: LeonardoIbiapina](https://img.shields.io/badge/-seuperfil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LeonardoIbiapina/)](https://www.linkedin.com/in/LeonardoIbiapina/)
+[![GitHub followers](https://img.shields.io/github/followers/leoibiap?label=Follow&style=social)](https://github.com/leoibiap)
+[![Linkedin: leonardo-ibiapina](https://img.shields.io/badge/-leonardo-ibiapina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-ibiapina/)](https://www.linkedin.com/in/leonardo-ibiapina/)
 
 ## 👨‍💻 Sobre mim
 
