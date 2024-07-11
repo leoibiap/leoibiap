@@ -35,5 +35,5 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras usando tecnologi
 
 ## 🌟 Projetos Destacados
 
-- **[Projeto Legal](https://github.com/seuusername/projeto-legal)** - Uma descrição interessante sobre o projeto.
-- **[Outro Projeto](https://github.com/seuusername/outro-projeto)** - Uma breve descrição do outro projeto.
+- **[Landing Page de vendas](https://leoibiap.github.io/Game-Retro-Mobile/)** - Landing Page apenas para dispotivos mobiles.
+- **[Contratempo](https://leoibiap.github.io/C-zinho/)** - Contratempo.
