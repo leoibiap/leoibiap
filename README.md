@@ -9,13 +9,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras usando tecnologi
 
 ## 💼 Experiência
 
-- **Desenvolvedor Full Stack** na Empresa Desempregado
+- **Desenvolvedor Full Stack** na Secretária de Administração do Estado do Piauí (SEAD-PI)
   - Desenvolvimento de aplicativos web usando React.js, Node.js e MongoDB.
   - Implementação de soluções de aprendizado de máquina para otimizar processos internos.
-
-- **Estagiário em Inteligência Artificial** na Empresa Nada
-  - Desenvolvimento de modelos de aprendizado profundo para reconhecimento de imagem.
-  - Análise de dados e geração de insights para tomada de decisão.
 
 ## 🚀 Habilidades
 
